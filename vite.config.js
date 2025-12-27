@@ -1,8 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: './', // 👈 加入這行，確保資源路徑正確
+  base: './', // 👈 確保這行存在，這能解決部署後的空白頁問題
 })
