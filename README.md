@@ -10,7 +10,7 @@ While the project serves as a creative holiday greeting, it was primarily built 
 (Note: Please allow camera access. Open your palm to scatter the particles; close your fist to reform the tree.)
 
 💝 The Inspiration (Origin)
-The project originated as a personalized digital Christmas card for a friend, Vandy. The interface features the message "Merry Christmas, Vandy" to maintain the warmth of the original gift. My goal was to transform a traditional 2D greeting into an immersive, interactive experience that leverages modern web technologies.
+The Inspiration (Origin) This project originated as a personalized digital Christmas card for a friend, Vandy. While the interface retains the message "Merry Christmas, Vandy" to maintain the warmth of the original gift, my primary goal was to evolve a traditional 2D greeting into an immersive, interactive 3D experience. This transformation allowed me to explore the intersection of creative design and modern web technologies, specifically focusing on real-time rendering and hardware integration.
 
 🛠️ Tech Stack & Tools
 3D Framework: React Three Fiber (Three.js abstraction for React)
